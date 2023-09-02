@@ -1,0 +1,17 @@
+.price {
+    background-color: aquamarine;
+
+}
+
+.warning {
+    height: 40px;
+    width: 250px;
+    position: absolute;
+    right: 0;
+    top: 10%;
+    background-color: rgb(227, 75, 75);
+    font-size: 15px;
+    color: aliceblue;
+    font-family: cursive;
+    border-radius: 5px;
+}
